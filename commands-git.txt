@@ -1,5 +1,5 @@
 ➔ Cloner un repository :
-    git clone "URL" "NomDuDossier"
+    git clone <URL_du_dépôt> [<nom_du_dossier_de_destination>]
 
 ➔ Les 3 commandes de push :
     git add .
